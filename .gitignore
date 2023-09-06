@@ -1,3 +1,6 @@
+# Backend
 node_modules
 /backend/config.js
 backend/package-lock.json
+
+# frontend .gitignore built by Vite
